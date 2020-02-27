@@ -1,8 +1,12 @@
 # Node JS basics
 
-This repo will help you to understand basics of Node js with sample codes 
+This repo will help you to understand basics of Node js and express js with sample codes
 
 ### Prerequisites
 
-Basics of javascript
+1.Basics of Javascript
+2. How to run Node js server
+
+
+
 
